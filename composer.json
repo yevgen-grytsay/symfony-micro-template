@@ -1,5 +1,10 @@
 {
+    "name": "yevgen-grytsay/symfony-micro-template",
+    "type": "project",
+    "keywords": ["symfony", "framework"],
+    "license": "MIT",
     "require": {
+        "php": "^8.2",
         "symfony/framework-bundle": "^7.1",
         "symfony/yaml": "^7.1"
     },
