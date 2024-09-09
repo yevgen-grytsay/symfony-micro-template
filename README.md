@@ -6,3 +6,9 @@ It automatically discovers controllers in the `src/Controllers` directory (contr
 Perfect for developers looking to jumpstart lightweight Symfony-based API applications with minimal setup. 
 
 Note: This template is not intended for use in production environments.
+
+## Installation
+
+```shell
+composer create-project yevgen-grytsay/symfony-micro-template my-project -s dev
+```
